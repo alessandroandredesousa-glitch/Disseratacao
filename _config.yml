@@ -1,0 +1,10 @@
+# Activate LaTeX math rendering
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      math: true
