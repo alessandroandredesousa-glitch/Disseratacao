@@ -2,7 +2,7 @@
 title: "Capítulo 1: Introdução"
 date: 2025-09-05T12:00:00-03:00
 draft: false
-layout: default
+layout: 
 ---
 
 # Introdução à Geometria
